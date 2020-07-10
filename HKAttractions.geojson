@@ -1,0 +1,1772 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+            {
+                   "type":"Feature",
+                   "properties":{
+                     "location":"Victoria Peak",
+                     "latitude":"22.275911",
+                     "description":"Victoria Peak is a hill on the western half of Hong Kong Island. It is also known as Mount Austin, and locally as The Peak. With an elevation of 552 m, it is the highest hill on Hong Kong island, ranked 31 in terms of elevation in the Hong Kong Special Administrative Region. The summit is occupied by a radio telecommunications facility and is closed to the public. However, the surrounding area of public parks and high-value residential land is the area that is normally meant by the name The Peak. It is a major tourist attraction that offers views of Central, Victoria Harbour, Lamma Island, and the surrounding islands.",
+                     "thumb":null,
+                     "longitude":"114.145466",
+                     "imagefile":"http://....JPG",
+                     "discipline":"Mountain peak",
+                     "title":"Victoria Peak",
+                     "access":"Limited"
+               },
+                   "geometry":{
+                       "type":"Point",
+                       "coordinates":[114.145466, 22.275911]
+               }
+             },
+
+
+
+               {
+                    "type":"Feature",
+                    "properties":{
+                         "location":"Hong Kong Disneyland",
+                         "latitude":"22.313052",
+                         "description":"Hong Kong Disneyland is a theme park located on reclaimed land in Penny's Bay, Lantau Island. It is located inside the Hong Kong Disneyland Resort and it is owned and managed by Hong Kong International Theme Parks. It is the largest theme park in Hong Kong, followed by Ocean Park Hong Kong. Hong Kong Disneyland was opened to visitors on Monday, 12 September 2005 at 13:00 HKT. Disney attempted to avoid problems of cultural backlash by incorporating Chinese culture, customs and traditions when designing and building the resort, including adherence to the rules of feng shui. Notably, a bend was put in a walkway near the Hong Kong Disneyland Resort entrance so good qi energy would not flow into the South China Sea. The park consists of seven themed areas: Main Street, U.S.A., Fantasyland, Adventureland, Tomorrowland, Grizzly Gulch, Mystic Point, and Toy Story Land. The theme park's cast members speak Cantonese, English, and Mandarin. Guide maps are printed in traditional and simplified Chinese as well as English. The park has a daily capacity of 34,000 visitors — the lowest of all Disneyland parks.",
+                         "thumb":null,
+                         "longitude":"114.041119",
+                         "imagefile":"http://....JPG",
+                         "discipline":"Theme Park",
+                         "title":"Hong Kong Disneyland",
+                         "access":"Limited"
+                    },
+                    "geometry":{
+                         "type":"Point",
+                         "coordinates":[114.041119, 22.313052]
+                    }
+               },
+
+
+
+               {
+                    "type":"Feature",
+                    "properties":{
+                         "location":"Victoria Harbour",
+                         "latitude":"22.300912",
+                         "description":"Victoria Harbour is a natural landform harbour separating Hong Kong Island in the south from the Kowloon Peninsula to the north. The harbour's deep, sheltered waters and strategic location on the South China Sea were instrumental in Hong Kong's establishment as a British colony and its subsequent development as a trading centre. Throughout its history, the harbour has seen numerous reclamation projects undertaken on both shores, many of which have caused controversy in recent years. Environmental concerns have been expressed about the effects of these expansions, in terms of water quality and loss of natural habitat. It has also been proposed that benefits of land reclamation may be less than the effects of decreased harbour width, affecting the number of vessels passing through the harbour. Nonetheless Victoria Harbour still retains its founding role as a port for thousands of international vessels each year. The harbour is a major tourist attraction of Hong Kong. Lying in the middle of the territory's dense urban region, the harbour is the site of annual fireworks displays and its promenades are used as gathering places for tourists and residents.",
+                         "thumb":null,
+                         "longitude":"114.166843",
+                         "imagefile":"http://....JPG",
+                         "discipline":"Harbour",
+                         "title":"Victoria Harbour",
+                         "access":"Limited"
+                    },
+                    "geometry":{
+                         "type":"Point",
+                         "coordinates":[114.166843, 22.300912]
+                    }
+               },
+
+
+
+               {
+                    "type":"Feature",
+                    "properties":{
+                         "location":"Ocean Park",
+                         "latitude":"22.246635",
+                         "description":"Ocean Park Hong Kong, commonly known as Ocean Park, is a marine mammal park, oceanarium, animal theme park and amusement park situated in Wong Chuk Hang and Nam Long Shan in the Southern District of Hong Kong. It is the second largest theme park in Hong Kong, after Hong Kong Disneyland. And also, the largest theme park in Hong Kong by area. It is also the second oldest theme park in Hong Kong, after the now-defunct Lai Chi Kok Amusement Park which closed in 31 March 1997, four months before the 1997 handover. Opened in 1977, Ocean Park became popular, but 22 years later, it was unprofitable and widely expected to close due to the new Hong Kong Disneyland. However, the Park responded with a HK$5.5 billion development plan that saw it expand to over 80 attractions and rides, and steadily grow visitor numbers to 7.6 million in 2014, making it the world's 13th most visited theme park, and one of the largest theme parks in Asia. Half of all visitors now come from mainland China, in growth that parallels rising mainland tourist visitor levels to Hong Kong over the same period.",
+                         "thumb":null,
+                         "longitude":"114.175579",
+                         "imagefile":"http://....JPG",
+                         "discipline":"Amusement Park",
+                         "title":"Ocean Park",
+                         "access":"Limited"
+                    },
+                    "geometry":{
+                         "type":"Point",
+                         "coordinates":[114.175579, 22.246635]
+                    }
+               },
+
+
+
+               {
+                    "type":"Feature",
+                    "properties":{
+                         "location":"Tian Tan Buddha",
+                         "latitude":"22.254064",
+                         "description":"Tian Tan Buddha is a large bronze statue of Buddha Shakyamuni, completed in 1993, and located at Ngong Ping, Lantau Island, in Hong Kong. The statue is sited near Po Lin Monastery and symbolises the harmonious relationship between man and nature, people and faith. It is a major centre of Buddhism in Hong Kong, and is also a tourist attraction.",
+                         "thumb":null,
+                         "longitude":"113.904780",
+                         "imagefile":"http://....JPG",
+                         "discipline":"Monument",
+                         "title":"Tian Tan Buddha",
+                         "access":"Limited"
+                    },
+                    "geometry":{
+                         "type":"Point",
+                         "coordinates":[113.904780, 22.254064]
+                    }
+               },
+
+
+
+               {
+                    "type":"Feature",
+                    "properties":{
+                         "location":"Lantau Island",
+                         "latitude":"22.266671",
+                         "description":"Lantau Island is the largest island in Hong Kong, located at the mouth of the Pearl River. Administratively, most of Lantau Island is part of the Islands District of Hong Kong. A small northeastern portion of the island is located in the Tsuen Wan District. Originally the site of fishing villages, the island has been developed in recent years with the construction of Tung Chung New Town on its north-western coast and the completion of several major infrastructure projects, including Lantau Link, Hong Kong International Airport, Hong Kong Disneyland and Ngong Ping 360.",
+                         "thumb":null,
+                         "longitude":"113.941169",
+                         "imagefile":"http://....JPG",
+                         "discipline":"Island",
+                         "title":"Lantau Island",
+                         "access":"Limited"
+                    },
+                    "geometry":{
+                         "type":"Point",
+                         "coordinates":[113.941169, 22.266671]
+                    }
+               },
+
+
+
+               {
+                    "type":"Feature",
+                    "properties":{
+                         "location":"Ngong Ping 360",
+                         "latitude":"22.256376",
+                         "description":"Ngong Ping 360 is a bicable gondola lift on Lantau Island in Hong Kong. Intended to improve tourism to the area, the aerial lift was previously known as Tung Chung Cable Car Project before acquiring the Ngong Ping 360 brand in April 2005. It consists of the Ngong Ping Cable Car, formerly known as the Ngong Ping 360 Skyrail, and the Ngong Ping Village, a retail and entertainment centre adjacent to the cable car's upper station. Ngong Ping 360 connects Tung Chung, on the north coast of Lantau and itself linked to central Hong Kong by the Tung Chung Line, with the Ngong Ping area in the hills above. This is home to the Po Lin Monastery and the Tian Tan Buddha, both already significant tourist attractions in their own right. Before Ngong Ping 360's opening, the only access was via a mountain road and bus service. Ngong Ping 360 is owned by the MTR Corporation, the operator of Hong Kong's rail system. It was built by Leitner Ropeways and was originally operated by Skyrail-ITM. Skyrail-ITM was removed from the project after an investigation following an incident in June 2007. It is now operated by a directly owned subsidiary of the MTR Corporation.",
+                         "thumb":null,
+                         "longitude":"113.901170",
+                         "imagefile":"http://....JPG",
+                         "discipline":"Gondola lift station",
+                         "title":"Ngong Ping 360",
+                         "access":"Limited"
+                    },
+                    "geometry":{
+                         "type":"Point",
+                         "coordinates":[113.901170, 22.256376]
+                    }
+               },
+
+
+
+               {
+                    "type":"Feature",
+                    "properties":{
+                         "location":"The Peak Tram",
+                         "latitude":"22.277691",
+                         "description":"The Peak Tram is a funicular railway in Hong Kong, which carries both tourists and residents to the upper levels of Hong Kong Island. Running from Garden Road Admiralty to Victoria Peak via the Mid-Levels, it provides the most direct route and offers good views over the harbour and skyscrapers of Hong Kong. The Peak Tram is owned and operated by Hongkong and Shanghai Hotels, the owner of Hong Kong's Peninsula Hotel along with other properties. The line, along with HSH's Peak Tower leisure complex at the line's summit, is promoted using the brand The Peak. The Peak is currently being upgraded to have longer cars and wider platforms. Since 22 July 2019, the funicular railway has been reopened for service, using a temporary platform for Garden Road. In the absence of tram service, the New World First Bus non-stop route X15 may be operated between Admiralty and the Peak in addition to the regular bus and minibus services, and other temporary traffic measures may be taken.",
+                         "thumb":null,
+                         "longitude":"114.159174",
+                         "imagefile":"http://....JPG",
+                         "discipline":"Transportation Services",
+                         "title":"The Peak Tram",
+                         "access":"Limited"
+                    },
+                    "geometry":{
+                         "type":"Point",
+                         "coordinates":[114.159174, 22.277691]
+                    }
+               },
+
+
+
+               {
+                    "type":"Feature",
+                    "properties":{
+                         "location":"Avenue of stars",
+                         "latitude":"22.293016",
+                         "description":"The Avenue of Stars, modelled on the Hollywood Walk of Fame, is an avenue located along the Victoria Harbour waterfront in Tsim Sha Tsui, Hong Kong. It honours celebrities of the Hong Kong film industry.",
+                         "thumb":null,
+                         "longitude":"114.174134",
+                         "imagefile":"http://....JPG",
+                         "discipline":"Scenic Spot",
+                         "title":"Avenue of stars",
+                         "access":"Limited"
+                    },
+                    "geometry":{
+                         "type":"Point",
+                         "coordinates":[114.174134, 22.293016]
+                    }
+               },
+
+
+
+               {
+                    "type":"Feature",
+                    "properties":{
+                         "location":"Sky 100 Hong Kong Observation Deck",
+                         "latitude":"22.303351",
+                         "description":"Sky100 is a 360-degree indoor observation deck on the 100th floor of the International Commerce Centre, in West Kowloon, Hong Kong. The deck offers views of Hong Kong Island, Victoria Harbour, the Kowloon Peninsula and Tai Mo Shan in the background. Sky100 is located two floors below The Ritz-Carlton, Hong Kong. Visitors reach the observation deck using high-speed lifts, which travel from the entrance on the second floor to the 100th floor in 60 seconds.",
+                         "thumb":null,
+                         "longitude":"114.160081",
+                         "imagefile":"http://....JPG",
+                         "discipline":"Observation Deck",
+                         "title":"Sky 100 Hong Kong Observation Deck",
+                         "access":"Limited"
+                    },
+                    "geometry":{
+                         "type":"Point",
+                         "coordinates":[114.160081, 22.303351]
+                    }
+               },
+
+
+
+               {
+                    "type":"Feature",
+                    "properties":{
+                         "location":"Lan Kwai Fong",
+                         "latitude":"22.280845",
+                         "description":"Lan Kwai Fong is a small square of streets in Central, Hong Kong. The area was dedicated to hawkers before the Second World War, but underwent a renaissance in the mid-1980s. It is now a popular expatriate haunt in Hong Kong for drinking, clubbing and dining. The street Lan Kwai Fong is L-shaped with two ends joining with D'Aguilar Street.",
+                         "thumb":null,
+                         "longitude":"114.155579",
+                         "imagefile":"http://....JPG",
+                         "discipline":"Landmark",
+                         "title":"Lan Kwai Fong",
+                         "access":"Limited"
+                    },
+                    "geometry":{
+                         "type":"Point",
+                         "coordinates":[114.155579, 22.280845]
+                    }
+               },
+
+
+
+               {
+                    "type":"Feature",
+                    "properties":{
+                         "location":"Repulse Bay",
+                         "latitude":"22.234549",
+                         "description":"Repulse Bay is a bay in the southern part of Hong Kong Island, located in the Southern District, Hong Kong. It is one of the most expensive residential areas in the world.",
+                         "thumb":null,
+                         "longitude":"114.195454",
+                         "imagefile":"http://....JPG",
+                         "discipline":"Bay",
+                         "title":"Repulse Bay",
+                         "access":"Limited"
+                    },
+                    "geometry":{
+                         "type":"Point",
+                         "coordinates":[114.195454, 22.234549]
+                    }
+               },
+
+               {
+                    "type":"Feature",
+                    "properties":{
+                         "location":"Lamma Island",
+                         "latitude":"22.200286",
+                         "description":"Lamma Island, also known as Y Island or Pok Liu Chau or simply Pok Liu, is the third largest island in Hong Kong. Administratively, it is part of the Islands District.",
+                         "thumb":null,
+                         "longitude":"114.132974",
+                         "imagefile":"http://....JPG",
+                         "discipline":"Island",
+                         "title":"Lamma Island",
+                         "access":"Limited"
+                    },
+                    "geometry":{
+                         "type":"Point",
+                         "coordinates":[114.132974, 22.200286]
+                    }
+               },
+               
+               {
+                    "type":"Feature",
+                    "properties":{
+                         "location":"Cheung Chau",
+                         "latitude":"22.201767",
+                         "description":"Cheung Chau is an island 10 kilometres southwest of Hong Kong Island. It is nicknamed the 'dumbbell island' due to its shape. It has been inhabited for longer than most other places in the territory of Hong Kong, and had a population of 22,740 as of 2011. Administratively, it is part of the Islands District.",
+                         "thumb":null,
+                         "longitude":"114.026781",
+                         "imagefile":"http://....JPG",
+                         "discipline":"Island",
+                         "title":"Cheung Chau",
+                         "access":"Limited"
+                    },
+                    "geometry":{
+                         "type":"Point",
+                         "coordinates":[114.026781, 22.201767]
+                    }
+               },
+               
+               {
+                    "type":"Feature",
+                    "properties":{
+                         "location":"Central-Mid-Levels Escalators",
+                         "latitude":"22.283799",
+                         "description":"The Central–Mid-Levels escalator and walkway system in Hong Kong is the longest outdoor covered escalator system in the world. The system covers over 800 m in distance and traverses an elevation of over 135 m from bottom to top. It opened in 1993 to provide an improved link between the Central and Mid-Levels districts on Hong Kong Island. The top stage of the escalator system between Robinson Road and Conduit Road has been replaced, and went operational on 11 July 2018. In early 2019, three refurbished escalators between Mosque Street and Robinson Road went operational. In June 2019, two replaced escalators between Caine Road and Elgin Street opened to the public. The escalator between Gage Street and Wellington Street is currently under refurbishment. Apart from serving as a mode of transportation, the system is also a tourist attraction and is lined with restaurants, bars, and shops.",
+                         "thumb":null,
+                         "longitude":"114.155135",
+                         "imagefile":"http://....JPG",
+                         "discipline":"Scenic Spot",
+                         "title":"Central-Mid-Levels Escalators",
+                         "access":"Limited"
+                    },
+                    "geometry":{
+                         "type":"Point",
+                         "coordinates":[114.155135, 22.283799]
+                    }
+               },
+            
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Madame Tussauds Hong Kong",
+                          "latitude":"22.271141",
+                          "description":"Madame Tussauds Hong Kong, is part of the renowned chain of wax museums founded by Marie Tussaud of France, is located at the Peak Tower on Hong Kong Island in Hong Kong. It is the first Madame Tussauds museums in Asia, the other being the Shanghai branch, which opened in 2006 and the third branch at Bangkok which opened in 2010. The Hong Kong branch houses nearly 100 wax figures of internationally known personalities, with Asian figures taking up more than a third of the total, of which sixteen were Hong Kongers. The wax figures are featured in a range of themed settings such as Hong Kong Glamour, Music Icons, Historical and National Heroes, The Champions and World Premiere.",
+                          "thumb":null,
+                          "longitude":"114.149758",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Tourist Attraction",
+                          "title":"Madame Tussauds Hong Kong",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.149758, 22.271141]
+                     }
+                },
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Stanley Market",
+                          "latitude":"22.218047",
+                          "description":"Stanley Market is a street market in Stanley on Hong Kong Island, Hong Kong. The street is a typical example of a traditional old open-air market in Hong Kong and has since become a major tourist attraction, well known for its bargains. Many of the stalls or shops in Stanley Market sell Hong Kong souvenirs as well as clothing - particularly silk garments and traditional Chinese dress - toys, ornaments, luggage, souvenirs, paintings, and Chinese arts and crafts. The market grew out of Chek Chu Tsuen, a nearby village. There are several small Chinese restaurants in the marketplace and a small old dai pai dong or open food stall. There are also a variety of restaurants along the seafront. The nearby Stanley Main Street offers many larger restaurants, both Western and Chinese.",
+                          "thumb":null,
+                          "longitude":"114.212501",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Market",
+                          "title":"Stanley Market",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.212501, 22.218047]
+                     }
+                },
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Peak Tower",
+                          "latitude":"22.271349",
+                          "description":"The Peak Tower is a leisure and shopping complex located at Victoria Gap, near the summit of Victoria Peak on Hong Kong Island, Hong Kong. It also houses the upper terminal of the Peak Tram. Both the Peak Tower and the Peak Tram are owned by the Hongkong and Shanghai Hotels group, the owner of Hong Kong's Peninsula Hotel and other properties. The tower and tram are jointly promoted by the collective branding known as The Peak. The Peak Tower is located at an elevation of 396 m, 156 m below the summit of Victoria Peak. Because the architects sought a design which would be prominent on the skyline but would not interrupt the natural line of the hills, they chose a site in a dip along the line of the hills, and restricted the tower's height to 428 m above sea level.",
+                          "thumb":null,
+                          "longitude":"114.149956",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Tourist Attraction",
+                          "title":"Peak Tower",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.149956, 22.271349]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Former Kowloon-Canton Railway Clock Tower",
+                          "latitude":"22.293475",
+                          "description":"The Clock Tower is a landmark in Hong Kong. It is located on the southern shore of Tsim Sha Tsui, Kowloon. It is the only remnant of the original site of the former Kowloon Station on the Kowloon-Canton Railway. Officially named Former Kowloon-Canton Railway Clock Tower, it is usually referred to as the Tsim Sha Tsui Clock Tower for its location. Built out of red bricks and granite, the Clock Tower peaks at 44 metres, and is topped by a 7-metre lightning rod. The top of the tower can be reached by a wooden staircase located within. The interior of Clock Tower had previously been open for the visit but is currently closed for maintenance. The clock tower is located near Victoria Harbour at the foot of Salisbury Road. Another landmark, the Tsim Sha Tsui Ferry Pier, is located nearby. The tower has been listed as a declared monument in Hong Kong since 1990.",
+                          "thumb":null,
+                          "longitude":"114.169530",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Scenic Spot",
+                          "title":"Former Kowloon-Canton Railway Clock Tower",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.169530, 22.293475]
+                     }
+                },
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Hong Kong Wetland Park",
+                          "latitude":"22.470168",
+                          "description":"Hong Kong Wetland Park is a conservation, education and tourism facility, located at the northern part of Tin Shui Wai, in Yuen Long. It was to be an ecological mitigation area for the wetlands lost due to Tin Shui Wai New Town development. The Hong Kong Wetland Park comprises a 10,000-square-metre visitor centre, Wetland Interactive World, and a 60-hectare Wetland Reserve. The Wetland Interactive World has themed exhibition galleries, a theatre, a souvenir shop, an indoor play area and a resource centre. Wetland Park currently holds the highest recorded temperature in Hong Kong, at 39.0 ∞C on 22 August 2017, the day before Typhoon Hato affected the region.",
+                          "thumb":null,
+                          "longitude":"114.006090",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Ecological Park",
+                          "title":"Hong Kong Wetland Park",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.006090, 22.470168]
+                     }
+                },
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Hong Kong Museum of History",
+                          "latitude":"22.302007",
+                          "description":"The Hong Kong Museum of History is a museum which preserves Hong Kong's historical and cultural heritage. It is located next to the Hong Kong Science Museum, in Tsim Sha Tsui, Kowloon, Hong Kong. The collections of the museum encompass natural history, archaeology, ethnography and local history.",
+                          "thumb":null,
+                          "longitude":"114.177114",
+                          "imagefile":"http://....JPG",
+                          "discipline":"History Museum",
+                          "title":"Hong Kong Museum of History",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.177114, 22.302007]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Dragon's Back",
+                          "latitude":"22.236730",
+                          "description":"The Dragon's Back is a mountain ridge in southeastern Hong Kong Island, Hong Kong that passes through Shek O Peak. It lies within the Shek O Country Park. In 2019, the Dragon's Back Trail was selected by CNN as one of the world's 23 best trails. Dragon's Back is part of Stage 8 of the Hong Kong Trail.",
+                          "thumb":null,
+                          "longitude":"114.243611",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Ridge",
+                          "title":"Dragon's Back",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.243611, 22.236730]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Ten Thousand Buddhas Monastery",
+                          "latitude":"22.387689",
+                          "description":"The Ten Thousand Buddhas Monastery is a mid-20th century Buddhist temple located in Sha Tin, Hong Kong, at 220 Pai Tau Village. Its designation as a monastery is actually a misnomer because there are no monks residing at the complex, which is managed solely by laypersons. Both the main temple building and the pagoda are listed as Grade III historic buildings by the Government of Hong Kong. Groundbreaking and construction of the temple began in 1951 under Yuet Kai and his followers, and the structure was finished six years later. It closed for three years at the end of the 20th century after one of its caretakers was killed in a mudslide caused by poorly-maintained slopes nearby. The main journey up to the monastery is an attraction itself, as the path is lined on both sides with golden Buddhas, each unique and in different poses. Despite the common translation of its name, the monastery actually contains nearly 13,000 Buddha statues.",
+                          "thumb":null,
+                          "longitude":"114.184563",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Buddhist Temple",
+                          "title":"Ten Thousand Buddhas Monastery",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.184563, 22.387689]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Kowloon Park",
+                          "latitude":"22.300739",
+                          "description":"Kowloon Park is a large public park in Tsim Sha Tsui, Kowloon, Hong Kong. It has an area of 13.3 hectares and is managed by the Leisure and Cultural Services Department.",
+                          "thumb":null,
+                          "longitude":"114.169901",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Park",
+                          "title":"Kowloon Park",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.169901, 22.300739]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Wharf T & T",
+                          "latitude":"22.296043",
+                          "description":"Harbour City is a shopping centre in Tsim Sha Tsui, Kowloon, Hong Kong. It occupies the lower levels of a series of office blocks and hotels, comprising several parts: Marco Polo Hotels, Ocean Terminal, Ocean Centre, the Gateway and the Pacific Club Kowloon. The complex is located along the west side of Canton Road, stretching from Star House and the Star Ferry Pier in the south to China Hong Kong City in the north.",
+                          "thumb":null,
+                          "longitude":"114.168570",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Shopping Mall",
+                          "title":"Wharf T & T",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.168570, 22.296043]
+                     }
+                },
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Adventureland",
+                          "latitude":"22.311791",
+                          "description":"Adventureland is one of the 'themed lands' at the many Disneyland-style theme parks run by the Walt Disney Company around the world. It is themed to resemble the remote jungles in Africa, Asia, South America, and the South Pacific. 'To create a land that would make this dream reality,' said Walt Disney, 'We pictured ourselves far from civilization, in the remote jungles of Asia and Africa.' Adventureland provides a 1950s view of exotic adventure, capitalizing on the post-war Tiki craze. Lush vegetation resembles jungles while elements of the 'other' surround the visitor. Tribal performance masks, conga drums, non-American totem poles, exotic animal statues, and architecture of Pacific influence make for a confined area wherein industry and technology take a back seat to uncharted nature. Noted art historian David T. Doris explains Adventureland as, a pastiche of imaginary colonial spaces, conflated within the green and foliate milieu of 'the Jungle.'",
+                          "thumb":null,
+                          "longitude":"114.041550",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Theme Park",
+                          "title":"Adventureland",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.041550, 22.311791]
+                     }
+                },
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Victoria Park",
+                          "latitude":"22.282210",
+                          "description":"Victoria Park is a public park in Hong Kong furthermore one of Hong Kong's centre attention. The park is named after Queen Victoria of the United Kingdom. It is located in Causeway Bay, on the north of Hong Kong Island, between Causeway Bay and Tin Hau MTR station Exit A2. It is part of Wan Chai District, bordered by Victoria Park Road and then Victoria Harbour to the north and Causeway Road and Hong Kong Central Library to the south. The park underwent a major revamp in the early 2000s, which gave it many of its new features, including basketball courts, tennis stadiums, and swimming pool.",
+                          "thumb":null,
+                          "longitude":"114.188854",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Park",
+                          "title":"Victoria Park",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.188854, 22.282210]
+                     }
+                },
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Hong Kong Park",
+                          "latitude":"22.276714",
+                          "description":"The Hong Kong Park is a public park next to Cotton Tree Drive in Central, Hong Kong. Built at a cost of HK$398 million and opened in May 1991, it covers an area of 80,000 m≤ and is an example of modern design and facilities blending with natural landscape.",
+                          "thumb":null,
+                          "longitude":"114.159594",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Park",
+                          "title":"Hong Kong Park",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.159594, 22.276714]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Hong Kong UNESCO Global Geopark",
+                          "latitude":"22.364741",
+                          "description":"Hong Kong UNESCO Global Geopark, formerly Hong Kong National Geopark, was inaugurated on 3 November 2009. It is a single entity of land area over 150 km≤ across parts of the eastern and northeastern New Territories. On 18 September 2011, UNESCO listed the geopark as part of its Global Geoparks Network. The Hong Kong UNESCO Global Geopark consists of two geological regions: the Sai Kung Volcanic Rock Region, with its widely distributed tuff volcanic rocks displaying prismatic columnar jointing, which are of international geological significance the Northeast New Territories Sedimentary Rock Region, which comprises sedimentary rocks formed in different geologic periods, showcasing the complete geological history of Hong Kong.",
+                          "thumb":null,
+                          "longitude":"114.378512",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Tourist Attraction",
+                          "title":"Hong Kong UNESCO Global Geopark",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.378512, 22.364741]
+                     }
+                },
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Nan Lian Garden",
+                          "latitude":"22.339671",
+                          "description":"The Nan Lian Garden is a Chinese Classical Garden in Diamond Hill, Hong Kong. The garden has an area of 3.5 hectares. It is designed in the Tang Dynasty-style with hills, water features, trees, rocks and wooden structures. The garden was a joint project of the Chi Lin Nunnery and the Hong Kong Government. It opened to the public on November 14, 2006. The garden is open daily from 7am to 9pm.",
+                          "thumb":null,
+                          "longitude":"114.204411",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Garden",
+                          "title":"Nan Lian Garden",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.204411, 22.339671]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Soho, Hong Kong",
+                          "latitude":"22.281580",
+                          "description":"The SoHo district in Hong Kong is an entertainment zone located in Central. It borders Lan Kwai Fong and Sheung Wan districts. The name is derived from its location: South of Hollywood Road.",
+                          "thumb":null,
+                          "longitude":"114.152800",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Tourist Attraction",
+                          "title":"Soho, Hong Kong",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.152800, 22.281580]
+                     }
+                },
+                
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Tai Kwun - Centre for Heritage and Arts",
+                          "latitude":"22.281402",
+                          "description":"The former Central Police Station of Hong Kong, located at the eastern end of Hollywood Road, in Central, Hong Kong has been redeveloped into a cultural and shopping destination generally called Tai Kwun. Tai Kwun is composed of three declared monuments: the former Central Police Station, former Central Magistracy and Victoria Prison.",
+                          "thumb":null,
+                          "longitude":"114.153862",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Heritage Building",
+                          "title":"Tai Kwun - Centre for Heritage and Arts",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.153862, 22.281402]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Hong Kong Zoological and Botanical Gardens Green House",
+                          "latitude":"22.276793",
+                          "description":"The Hong Kong Zoological and Botanical Gardens is one of the oldest zoological and botanical centres in the world. It occupies an area of 5.6 hectares at Mid-levels, on the northern slope of Victoria Peak in Hong Kong. Founded in 1864, its first stage was opened to the public in 1871. It is the oldest park in Hong Kong. Similar to Hong Kong Park, Hong Kong Zoological and Botanical Gardens provides a natural environment and atmosphere in Central District. It is bigger than Hong Kong Park and contains more plants, birds and facilities.",
+                          "thumb":null,
+                          "longitude":"114.155935",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Greenhouse",
+                          "title":"Hong Kong Zoological and Botanical Gardens Green House",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.155935, 22.276793]
+                     }
+                },
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Hong Kong Jockey Club Happy Valley Racecourse",
+                          "latitude":"22.272632",
+                          "description":"The Happy Valley Racecourse is one of the two racecourses for horse racing and is a tourist attraction in Hong Kong. It is located in Happy Valley on Hong Kong Island, surrounded by Wong Nai Chung Road and Morrison Hill Road. The capacity of the venue is 55,000.",
+                          "thumb":null,
+                          "longitude":"114.180347",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Racecourse",
+                          "title":"Hong Kong Jockey Club Happy Valley Racecourse",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.180347, 22.272632]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Hong Kong Cultural Centre",
+                          "latitude":"22.294048",
+                          "description":"The Hong Kong Cultural Centre is a multipurpose performance facility in Tsim Sha Tsui, Hong Kong. Located at Salisbury Road, it was built by the former Urban Council and, since 2000, has been administered by the Leisure and Cultural Services Department of the Hong Kong Government. A wide variety of cultural performances are held here.",
+                          "thumb":null,
+                          "longitude":"114.170076",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Cultural Centre",
+                          "title":"Hong Kong Cultural Centre",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.170076, 22.294048]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Hong Kong Science Museum 香港科學館",
+                          "latitude":"22.301090",
+                          "description":"The Hong Kong Science Museum is a science museum in Tsim Sha Tsui East, Kowloon, Hong Kong, located next to the Hong Kong Museum of History.",
+                          "thumb":null,
+                          "longitude":"114.177430",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Museum",
+                          "title":"Hong Kong Science Museum",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.177430, 22.301090]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Peng Chau",
+                          "latitude":"22.282995",
+                          "description":"Peng Chau is a small island located off the north-eastern coast of Lantau Island, Hong Kong. It is known locally for its temples, fishing industry and seafood.",
+                          "thumb":null,
+                          "longitude":"114.041064",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Island",
+                          "title":"Peng Chau",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.041064, 22.282995]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Tai Mo Shan",
+                          "latitude":"22.408647",
+                          "description":"Tai Mo Shan is the highest peak in Hong Kong, with an elevation of 957 metres. It is also the tallest coastal peak in Southern China and second tallest coastal peak in China after Mount Lao, and located at approximately the geographical centre of the New Territories. The Tai Mo Shan Country Park covers an area of 14.40 square kilometres around Tai Mo Shan. It is located to the north of Tai Lam Country Park. The 35-metre-high Long Falls is the highest waterfall in Hong Kong.",
+                          "thumb":null,
+                          "longitude":"114.136834",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Mountain Peak",
+                          "title":"Tai Mo Shan",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.136834, 22.408647]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Mystic Manor",
+                          "latitude":"22.309916",
+                          "description":"Mystic Manor is a dark ride attraction in the Mystic Point area of Hong Kong Disneyland. Unlike Disneyland's Haunted Mansion attraction and its counterparts in other Disney parks, Mystic Manor has a lighthearted, fantasy-based theme with no references to departed spirits or the afterlife, due to differences in traditional Chinese culture. The attraction does feature several references to the Haunted Mansion, such as a Medusa changing portrait, a conservatory, and the busts that turn to follow visitors as they move. References to other Disney attractions include several figures similar to those from The Enchanted Tiki Room in the Tribal Arts room. The Manor's exterior design is inspired by the now-demolished Bradbury Mansion that stood at 147 North Hill Street in Los Angeles' Bunker Hill, designed by Samuel Newsom and Joseph Cather Newsom, who also designed the still-standing Carson Mansion in Eureka, California. The attraction utilises a trackless ride system similar to that used in Pooh's Hunny Hunt. It features a musical score by Danny Elfman.",
+                          "thumb":null,
+                          "longitude":"114.040982",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Amusement Park Ride",
+                          "title":"Mystic Manor",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.040982, 22.309916]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Hong Kong Heritage Museum",
+                          "latitude":"22.377241",
+                          "description":"Hong Kong Heritage Museum is a museum of history, art and culture in Sha Tin, Hong Kong, located beside the Shing Mun River. The museum opened on 16 December 2000. It is managed by the Leisure and Cultural Services Department of the Hong Kong Government. The six permanent exhibits and the original temporary exhibits were designed by design firm Reich+Petch along with Lord Cultural Resources. The museum building is the largest in Hong Kong, and can accommodate up to 6,000 visitors.",
+                          "thumb":null,
+                          "longitude":"114.185547",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Heritage Museum",
+                          "title":"Hong Kong Heritage Museum",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.185547, 22.377241]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Hong Kong Museum of Art",
+                          "latitude":"22.293649",
+                          "description":"The Hong Kong Museum of Art is the first and main art museum of Hong Kong, located in Salisbury Road, Tsim Sha Tsui. It is managed by the Leisure and Cultural Services Department of the Hong Kong Government. HKMoA has an art collection of over 17,000 items. Admission is free for permanent exhibitions. A separate branch museum, the Flagstaff House Museum of Tea Ware, is situated in the Hong Kong Park in Central.",
+                          "thumb":null,
+                          "longitude":"114.171623",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Art Museum",
+                          "title":"Hong Kong Museum of Art",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.171623, 22.293649]
+                     }
+                },
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Tsing Ma Bridge",
+                          "latitude":"22.351091",
+                          "description":"Tsing Ma Bridge is a bridge in Hong Kong. It is the world's 14th-longest span suspension bridge, and was the second longest at time of completion. The bridge was named after the two islands it connects, namely Tsing Yi and Ma Wan. It has two decks and carries both road and rail traffic, which also makes it the largest suspension bridge of this type. The bridge has a main span of 1,377 metres and a height of 206 metres. The span is the longest of all bridges in the world carrying rail traffic. The 41-metre-wide bridge deck carries six lanes of automobile traffic, with three lanes in each direction. The lower level contains two rail tracks and two sheltered carriageways used for maintenance access and traffic lanes when particularly severe typhoons strike Hong Kong and the bridge deck is closed to traffic.",
+                          "thumb":null,
+                          "longitude":"114.073119",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Bridge",
+                          "title":"Tsing Ma Bridge",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.073119, 22.351091]
+                     }
+                },
+                
+                {
+                        "type":"Feature",
+                        "properties":{
+                             "location":"Big Wave Bay",
+                             "latitude":"22.245459",
+                             "description":"Big Wave Bay or Tai Long Wan is a bay in the Southern District of Hong Kong. It is located on the eastern coast of Hong Kong Island, south of Cape Collinson and north of Shek O. This bay should not be confused with the bay with the same name in Sai Kung. Big Wave Bay has a beach popular among surfers. It is also the site of a prehistoric rock carving, which is a declared monument.",
+                             "thumb":null,
+                             "longitude":"114.249651",
+                             "imagefile":"http://....JPG",
+                             "discipline":"Bay",
+                             "title":"Big Wave Bay",
+                             "access":"Limited"
+                        },
+                        "geometry":{
+                             "type":"Point",
+                             "coordinates":[114.249651, 22.245459]
+                        }
+                   },
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Lantau Peak",
+                          "latitude":"22.245613",
+                          "description":"Lantau Peak or Fung Wong Shan is the second highest peak in Hong Kong and the highest point on Lantau Island, with a height of 934 metres above sea level. It is famous for the sunrise scenery viewed from the summit.",
+                          "thumb":null,
+                          "longitude":"113.916461",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Mountain Peak",
+                          "title":"Lantau Peak",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[113.916461, 22.245613]
+                     }
+                },
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"The MacLehose Trail",
+                          "latitude":"22.362676",
+                          "description":"The MacLehose Trail is a 100-kilometre hiking trail that crosses much of the New Territories, Hong Kong, starting from Pak Tam Chung, Sai Kung, in the east to Tuen Mun in the west. The path is marked by distance posts at 500-metre intervals. The trail is named after Sir Murray MacLehose, the longest-serving governor of Hong Kong, who established the Country Parks and was himself an enthusiastic hiker. The trail passes through a variety of natural scenery including beaches and mountains. The New Territories, through which the MacLehose Trail runs, covers the majority of Hong Kong's land area. The east coast, where the trail begins, is deeply indented and wild. The central mountains, which the MacLehose Trail crosses, include many of Hong Kong's highest peaks. The western part, where the trail winds to its end, features numerous valley reservoirs.",
+                          "thumb":null,
+                          "longitude":"114.349336",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Tourism",
+                          "title":"The MacLehose Trail",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.349336, 22.362676]
+                     }
+                },
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Murray House",
+                          "latitude":"22.218108",
+                          "description":"Murray House is a Victorian-era building in Stanley, Hong Kong. Built in the present-day business district of Central in 1846 as officers' quarters of the Murray Barracks, the building was moved to the south of Hong Kong Island during the 2000s.This building has become an iconic landmark in Hong Kong. After housing the Hong Kong Maritime Museum, now in Stanley, it is now home to restaurants and shops.",
+                          "thumb":null,
+                          "longitude":"114.209584",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Historical Landmark",
+                          "title":"Murray House",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.209584, 22.218108]
+                     }
+                },
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"The Peak Tower | Sky Terrace 428",
+                          "latitude":"22.271285",
+                          "description":"Stylish building with a viewing platform.",
+                          "thumb":null,
+                          "longitude":"114.150267",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Tourist Attraction",
+                          "title":"The Peak Tower | Sky Terrace 428",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.150267, 22.271285]
+                     }
+                },
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"The Peak Tram",
+                          "latitude":"22.277581",
+                          "description":"Garden Road is the lower terminus of the Peak Tram line. It is located on the bottom floor of the St. John's Building on Garden Road, Central, Hong Kong, 28m above sea level. The current station comprises a single track, with platforms on both sides. One platform is used for boarding, the other for exiting the tram. As the Peak Tram is a major Hong Kong tourist attraction, long queues are common in front of the turnstiles at Garden Road Terminus.",
+                          "thumb":null,
+                          "longitude":"114.159095",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Transportation Service",
+                          "title":"The Peak Tram",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.159095, 22.277581]
+                     }
+                },
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Ma Wan",
+                          "latitude":"22.349929",
+                          "description":"Ma Wan is an island of Hong Kong, located between Lantau Island and Tsing Yi Island, with an area of 0.97 square kilometres. Administratively, it is part of Tsuen Wan District. The Lantau Link that passes through Ma Wan was constructed in the mid-1990s as part of the Hong Kong Government's Rose Garden plan to connect the new Hong Kong International Airport to the city centre. Its development fostered plans to develop the island. Today, a large part of Ma Wan is occupied by the Park Island apartment complex. A theme park, named Ma Wan Park was built to accompany the housing project, with its first phase opened on 1 July 2007.",
+                          "thumb":null,
+                          "longitude":"114.059262",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Island",
+                          "title":"Ma Wan",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.059262, 22.349929]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Kowloon Walled City Park",
+                          "latitude":"22.331951",
+                          "description":"The Kowloon Walled City Park is a historical park in Kowloon City, Kowloon, Hong Kong. The Kowloon Walled City had been a military stronghold since 15th century due to its coastal location and was a centre of vice and crime until 1987. Under the agreement between the Hong Kong Government and the PRC, the Kowloon Walled City was demolished in the 1990s while the indigenous buildings and features were preserved for incorporation in the new park. The Kowloon Walled City Park is designed as a Jiangnan garden of the early Qing dynasty. The park, 31,000 square metres in total, is divided into eight theme zones with their own characteristic scenery, matching with the style of the whole park. The design was awarded a Diploma at the IGO Stuttgart EXPO 93.",
+                          "thumb":null,
+                          "longitude":"114.189803",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Park",
+                          "title":"Kowloon Walled City Park",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.189803, 22.331951]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Big Wave Bay",
+                          "latitude":"22.245201",
+                          "description":"Tai Long Wan is a 3 kilometer-wide bay on the east coast of the Sai Kung Peninsula in Sai Kung District, Hong Kong. Considered one of the most beautiful places in Hong Kong, it is a popular surf destination.",
+                          "thumb":null,
+                          "longitude":"114.249565",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Bay",
+                          "title":"Big Wave Bay",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.249565, 22.245201]
+                     }
+                },
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Grass Island",
+                          "latitude":"22.476311",
+                          "description":"Grass Island or Tap Mun is an island in Hong Kong, located in the northeastern part of the territory. Its area is 1.69 km≤. Administratively, it is part of the Tai Po District. There are about 100 people living on the island, and feral cattle are known on the island.",
+                          "thumb":null,
+                          "longitude":"114.358347",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Island",
+                          "title":"Grass Island",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.358347, 22.476311]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Pui O Wan",
+                          "latitude":"22.236704",
+                          "description":"Pui O, formerly Lo Pui O, is an area on Lantau Island in Hong Kong. It is a popular destination for holiday camping in Hong Kong. Visitors may also rent village houses for leisure. Located in the South Lantau, there are four main villages in Pui O, they are Lo Wai, San Wai, Lo Uk, and Ham Tin. Pui O is located at the edge of Lantau South Country Park.",
+                          "thumb":null,
+                          "longitude":"113.973749",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Ocean",
+                          "title":"Pui O Wan",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[113.973749, 22.236704]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Western Market",
+                          "latitude":"42.460249",
+                          "description":"Western Market is one of the oldest structures in Sheung Wan, Hong Kong Island, Hong Kong. The current structure, built in 1906, was the North Block of the original Western Market. It is the oldest surviving market building in the city. The former South Block was demolished in 1981 and its site is now occupied by the Sheung Wan Complex.",
+                          "thumb":null,
+                          "longitude":"114.150135",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Market",
+                          "title":"Western Market",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.150135, 42.460249]
+                     }
+                },
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Dr Sun Yat-sen Museum",
+                          "latitude":"22.282082",
+                          "description":"The Dr Sun Yat-sen Museum is a museum in Central, Hong Kong. It is located in Kom Tong Hall, at 7 Castle Road, Central. After the preparation work undertaken by the Hong Kong Museum of History, the museum was opened on 12 December 2006, so as to commemorate the 140th birthday of the influential Chinese statesman.",
+                          "thumb":null,
+                          "longitude":"114.150667",
+                          "imagefile":"http://....JPG",
+                          "discipline":"History Museum",
+                          "title":"Dr Sun Yat-sen Museum",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.150667, 22.282082]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Sharp Island",
+                          "latitude":"22.364158",
+                          "description":"Sharp Island or Kiu Tsui Chau is the largest island in the Kiu Tsui Country Park located at Port Shelter of Sai Kung, Hong Kong. The area is most known for fishing, swimming as well as diving. Sharp Island is under the administration of Sai Kung District.",
+                          "thumb":null,
+                          "longitude":"114.292875",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Island",
+                          "title":"Sharp Island",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.292875, 22.364158]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Lantau Trail",
+                          "latitude":"22.249519",
+                          "description":"The Lantau Trail, opened on 4 December 1984, is a long-distance footpath on Lantau Island in the New Territories of Hong Kong. The 70 kilometres trail is a loop starting and finishing in Mui Wo. The Lantau Trail has good visitor facilities along the way, and the route is well marked. There are information boards and maps at junctions between each stage. Distance Posts 500 metres apart help hikers know exactly where they are. At each turning, route signs give clear instructions about directions, place names, and the distances and times for hiking between various places.",
+                          "thumb":null,
+                          "longitude":"113.927788",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Tourist Attraction",
+                          "title":"Lantau Trail",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[113.927788, 22.249519]
+                     }
+                },
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Yaumatei Tin Hau Temple",
+                          "latitude":"22.309925",
+                          "description":"The Tin Hau Temple Complex is a temple in Yau Ma Tei, Kowloon, Hong Kong. It comprises a row of five adjacent buildings: a Tin Hau Temple, a Shing Wong Temple, a Kwun Yum temple, Shea Tan and Hsu Yuen. The nearby Temple Street is named after it.",
+                          "thumb":null,
+                          "longitude":"114.170691",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Taoist Temple",
+                          "title":"Yaumatei Tin Hau Temple",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.170691, 22.309925]
+                     }
+                },
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Bank of China Tower",
+                          "latitude":"22.279364",
+                          "description":"The Bank of China Tower is a skyscraper located in Central, Hong Kong. Located at 1 Garden Road on Hong Kong Island, the tower houses the headquarters of the Bank of China (Hong Kong) Limited. One of the most recognisable landmarks in Hong Kong, the building is notable for its distinct shape and design, consisting of triangular frameworks covered by glass curtain walls. The building was designed by Chinese-American architect I. M. Pei and L.C Pei of I.M Pei and Partners. At a height of 315.0 m, reaching 367.4 m high including masts, the building is the fourth tallest skyscraper in Hong Kong, after International Commerce Centre, Two International Finance Centre and Central Plaza. It was the tallest building in Hong Kong and Asia from 1989 to 1992, and it was the first supertall skyscraper outside the United States, the first to break the 305 m mark. It was surpassed by Central Plaza on the same island in 1992. Construction began in 1985 on the former site of Murray House, and was completed five years later in 1990. Sporting a steel-column design, the building is accessible from the MTR's Central station. The building lies between Cotton Tree Drive and Garden Road.",
+                          "thumb":null,
+                          "longitude":"114.161321",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Tower",
+                          "title":"Bank of China Tower",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.161321, 22.279364]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Ladies Market",
+                          "latitude":"22.321745",
+                          "description":"Flea market for clothing & souvenirs.",
+                          "thumb":null,
+                          "longitude":"114.170614",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Market",
+                          "title":"Ladies Market",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.170614, 22.321745]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Sunset Peak",
+                          "latitude":"22.252554",
+                          "description":"Sunset Peak or Tai Tung Shan is the third highest peak in Hong Kong. It is situated on Lantau Island within Lantau South Country Park and Lantau North Country Park and stands at a height of 869 metres above the sea level. The second highest Lantau Peak is on the western part of the island.",
+                          "thumb":null,
+                          "longitude":"113.953365",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Mountain Peak",
+                          "title":"Sunset Peak",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[113.953365, 22.252554]
+                     }
+                },
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"High Island Reservoir",
+                          "latitude":"22.371081",
+                          "description":"The High Island Reservoir, located in the far south eastern part of the Sai Kung Peninsula, was opened in 1978 helping to alleviate water shortage problems in Hong Kong. Its water capacity is approximately 273 million cubic metres. The area it occupies was originally the Kwun Mun Channel, which separated High Island from the Sai Kung Peninsula.",
+                          "thumb":null,
+                          "longitude":"114.354964",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Reservoir",
+                          "title":"High Island Reservoir",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.354964, 22.371081]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Sha Tin Che Kung Temple",
+                          "latitude":"22.373359",
+                          "description":"Che Kung Miu, also called Che Kung Temple, are temples dedicated to Che Kung, who was a general during the Southern Song Dynasty in ancient China. He is believed by some worshipers to have been involved in the attempt to keep the Song state alive by bringing Prince Ping and his brother to the South. There are two temples dedicated to Che Kung in Hong Kong: one in Sha Tin and one in Ho Chung. Other temples in Hong Kong are partly dedicated to Che Kung.",
+                          "thumb":null,
+                          "longitude":"114.182906",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Taoist Temple",
+                          "title":"Sha Tin Che Kung Temple",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.182906, 22.373359]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Victoria Peak Garden",
+                          "latitude":"22.274307",
+                          "description":"Victoria Peak Garden is a Chinese style garden near the summit of Victoria Peak in Hong Kong. The former Mountain Lodge, an alternate residence for the Governor of Hong Kong, was located there, which has since been demolished, but the park remains as an attraction at the Peak. It is managed by the Leisure and Cultural Services Department. It is a vantage point which captures an over 300m high view of Victoria Harbour and the night scene of Hong Kong. The original landscape remains in the garden. Unlike most of the public parks in Hong Kong, dogs and other pet animals are allowed in the garden.",
+                          "thumb":null,
+                          "longitude":"114.144528",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Garden",
+                          "title":"Victoria Peak Garden",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.144528, 22.274307]
+                     }
+                },
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Kadoorie Farm and Botanic Garden",
+                          "latitude":"22.433265",
+                          "description":"Kadoorie Farm and Botanic Garden, formerly known as Kadoorie Experimental and Extension Farm, or Kadoorie Farm, was originally set up to aid poor farmers in the New Territories in Hong Kong. It later shifted its focus to promote biodiversity conservation in Hong Kong and south China, and greater environmental awareness. It is located near Pak Ngau Shek, encompassing Kwun Yum Shan in the central New Territories; The Farm was built in a valley with streams, woodlands and terraces in 1956 by the Kadoorie Agricultural Aid Association. Now it is managed to integrate nature conservation, including a rescue and rehabilitation programme for native animals, along with holistic education and practices in support of a transition to sustainable living. The farm attracts about 3000 to 5000 visitors per week.",
+                          "thumb":null,
+                          "longitude":"114.117353",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Botanical Garden",
+                          "title":"Kadoorie Farm and Botanic Garden",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.117353, 22.433265]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Shek O Beach",
+                          "latitude":"22.228812",
+                          "description":"Cozy cove for swimming & basking.",
+                          "thumb":null,
+                          "longitude":"114.250831",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Beach",
+                          "title":"Shek O Beach",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.250831, 22.228812]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Upper Shing Mun Reservoir",
+                          "latitude":"22.385665",
+                          "description":"Jubilee Reservoir is a reservoir in Hong Kong. It is located in Shing Mun, the area between Tsuen Wan and Sha Tin, in the New Territories.",
+                          "thumb":null,
+                          "longitude":"114.146813",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Reservoir",
+                          "title":"Upper Shing Mun Reservoir",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.146813, 22.385665]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Jade Market, Jordan",
+                          "latitude":"22.308941",
+                          "description":"Plaza of stalls selling jade-based items.",
+                          "thumb":null,
+                          "longitude":"114.169164",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Market",
+                          "title":"Jade Market, Jordan",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.169164, 22.308941]
+                     }
+                },
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Repulse Bay Beach",
+                          "latitude":"22.236706",
+                          "description":"Beach in an upmarket residential area.",
+                          "thumb":null,
+                          "longitude":"114.196444",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Beach",
+                          "title":"Repulse Bay Beach",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.196444, 22.236706]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Temple Street Night Market",
+                          "latitude":"22.307298",
+                          "description":"Nightly market for all kinds of goods.",
+                          "thumb":null,
+                          "longitude":"114.170275",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Street",
+                          "title":"Temple Street Night Market",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.170275, 22.307298]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Lion Rock Country Park",
+                          "latitude":"22.344942",
+                          "description":"Lion Rock Country Park is a country park, located in the New Territories, Hong Kong. It consists of approximately 5.57 square kilometres of land, including Lion Rock and Mong Fu Shek and their surrounding scenic hillsides, of which 3.48 square kilometres is forestry plantation.",
+                          "thumb":null,
+                          "longitude":"114.184278",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Park",
+                          "title":"Lion Rock Country Park",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.184278, 22.344942]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Choi Hung Estate",
+                          "latitude":"22.336115",
+                          "description":"Choi Hung Estate is a public housing estate in Ngau Chi Wan, Kowloon, Hong Kong. It was built by the former Hong Kong Housing Authority and is now managed by the current Hong Kong Housing Authority. It received a Silver Medal at the 1965 Hong Kong Institute of Architects Annual Awards.",
+                          "thumb":null,
+                          "longitude":"114.205554",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Estate",
+                          "title":"Choi Hung Estate",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.205554, 22.336115]
+                     }
+                },
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"PMQ - Staunton",
+                          "latitude":"22.283307",
+                          "description":"PMQ, is a historic site containing a grade III listed building, the old Hollywood Road Police Married Quarters, now used as a mixed-use venue for arts and design, in Hong Kong, between Aberdeen Street, Staunton Street, Hollywood Road, and Shing Wong Street. The site occupies what was originally the grounds of Queen's College, which built a school on the site in 1889. After wartime damage, the site was repurposed as quarters for married junior policemen. The compound is listed as a Grade III historic building since 2010. In 2014, after nearly 15 years of disuse, the building was renamed PMQ and opened to the public. The building's residential units were turned into studios, shops and offices for creative enterprises and exhibition spaces. The mission of PMQ is to nurture local designers, provide a stage for creative happenings and create a place for visitors to experience creative lifestyle; it is a not-for-profit social enterprise supporting Hong Kong brands and innovation.",
+                          "thumb":null,
+                          "longitude":"114.151609",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Art Design",
+                          "title":"PMQ - Staunton",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.151609, 22.283307]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Inspiration Lake",
+                          "latitude":"22.321954",
+                          "description":"The Inspiration Lake, officially known as The Inspiration Lake Recreation Centre, is a 12-hectare artificial lake located in Penny's Bay, Lantau Island, Hong Kong. The lake, opened on 16 August 2005, was created as part of the development of adjacent Hong Kong Disneyland Resort as a dual-purpose project for recreation and an irrigation reservoir. Inspiration Lake was built by the Hong Kong Government and managed by the Hong Kong International Theme Parks. It opens daily from 09:00 - 19:00; entrance is free.",
+                          "thumb":null,
+                          "longitude":"114.037533",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Lake",
+                          "title":"Inspiration Lake",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.037533, 22.321954]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Ping Shan Heritage Trail",
+                          "latitude":"22.446360",
+                          "description":"Ping Shan Heritage Trail is a heritage trail located in the Ping Shan area of Yuen Long District, in Hong Kong. The trail was inaugurated on 12 December 1993 and was the first of its kind in Hong Kong. It passes through the villages of Hang Tau Tsuen, Hang Mei Tsuen and Sheung Cheung Wai and it includes several declared monuments and graded buildings. The Ping Shan Tang Clan Gallery and Heritage Trail Visitors Centre was opened in 2007. It is housed in the Old Ping Shan Police Station.",
+                          "thumb":null,
+                          "longitude":"114.005944",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Trail",
+                          "title":"Ping Shan Heritage Trail",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.005944, 22.446360]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Wisdom Path",
+                          "latitude":"22.252655",
+                          "description":"Scenic walkway with prayer monuments.",
+                          "thumb":null,
+                          "longitude":"113.911891",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Path",
+                          "title":"Wisdom Path",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[113.911891, 22.252655]
+                     }
+                },
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Tsim Sha Tsui Promenade",
+                          "latitude":"22.297279",
+                          "description":"Park with lights with great views.",
+                          "thumb":null,
+                          "longitude":"114.178443",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Tourist Attraction",
+                          "title":"Tsim Sha Tsui Promenade",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.178443, 22.297279]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Lei Yue Mun",
+                          "latitude":"22.284725",
+                          "description":"Lei Yue Mun is a short channel in Hong Kong. It lies between Junk Bay and Victoria Harbour, separating Kowloon and Hong Kong Island. The channel is an important passage for the city, forming the eastern entrance of Victoria Harbour. The lands around the channel are also called Lei Yue Mun. On Kowloon side, it is famous for its seafood market and restaurants in the fishing villages. On the Hong Kong Island side, it has former military defence facilities. ",
+                          "thumb":null,
+                          "longitude":"114.237926",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Channel",
+                          "title":"Lei Yue Mun",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.237926, 22.284725]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Tung Lung Chau",
+                          "latitude":"22.247106",
+                          "description":"Tung Lung Chau, previously known as Nam Tong Island or Nam Fat Tong is an island located off the tip of the Clear Water Bay Peninsula in the New Territories of Hong Kong. It is also referred by Hong Kong people as Tung Lung To or Tung Lung Island. The island is largely uninhabited. Administratively, it belongs to Sai Kung District.",
+                          "thumb":null,
+                          "longitude":"114.289778",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Island",
+                          "title":"Tung Lung Chau",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.289778, 22.247106]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"HSBC Building",
+                          "latitude":"22.280142",
+                          "description":"HSBC Main Building is a headquarters building of The Hongkong and Shanghai Banking Corporation, which is today a wholly owned subsidiary of London-based HSBC Holdings. It is located on the southern side of Statue Square near the location of the old City Hall, Hong Kong. The previous HSBC building was built in 1935 and pulled down to make way for the current building. The address remains as 1 Queen's Road Central. The building can be reached from Exit K of Central MTR Station.",
+                          "thumb":null,
+                          "longitude":"114.159299",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Skyscraper",
+                          "title":"HSBC Building",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.159299, 22.280142]
+                     }
+                },
+                
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Tung Wan Beach",
+                          "latitude":"22.210332",
+                          "description":"Sandy beach with lifeguards & facilities.",
+                          "thumb":null,
+                          "longitude":"114.030031",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Beach",
+                          "title":"Tung Wan Beach",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.030031, 22.210332]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Star Ferry Pier",
+                          "latitude":"22.293634",
+                          "description":"Star Ferry Pier, Central may refer to any of the successive generations of Central Ferry Piers in Central, Hong Kong used by the Star Ferry for its services across Victoria Harbour to Tsim Sha Tsui Ferry Pier and until April 2011, to Hung Hom Pier. The current Star Ferry pier is the fourth to bear the name in Central. It opened for public service on 12 November 2006.",
+                          "thumb":null,
+                          "longitude":"114.168780",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Ferry Terminal",
+                          "title":"Star Ferry Pier",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.168780, 22.293634]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Mong Kok Flower Market",
+                          "latitude":"22.325322",
+                          "description":"Street market for flowers & plants.",
+                          "thumb":null,
+                          "longitude":"114.171704",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Flower Market",
+                          "title":"Mong Kok Flower Market",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.171704, 22.325322]
+                     }
+                },
+
+
+
+                {
+                     "type":"Feature",
+                     "properties":{
+                          "location":"Central Plaza",
+                          "latitude":"22.280019",
+                          "description":"Central Plaza is a 78-storey, 374 m skyscraper completed in August 1992 at 18 Harbour Road, in Wan Chai on Hong Kong Island in Hong Kong. It is the third tallest tower in the city after 2 International Finance Centre in Central and the ICC in West Kowloon. It was the tallest building in Asia from 1992 to 1996, until the Shun Hing Square was built in Shenzhen, a neighbouring city. Central Plaza surpassed the Bank of China Tower as the tallest building in Hong Kong until the completion of 2 IFC. Central Plaza was also the tallest reinforced concrete building in the world, until it was surpassed by CITIC Plaza, Guangzhou. The building uses a triangular floor plan. On the top of the tower is a four-bar neon clock that indicates the time by displaying different colours for 15-minute periods, blinking at the change of the quarter. An anemometer is installed on the tip of the building's mast, at 378 metres above sea level. The mast has a height of 102 m. It also houses the world's highest church inside a skyscraper, Sky City Church.",
+                          "thumb":null,
+                          "longitude":"114.173524",
+                          "imagefile":"http://....JPG",
+                          "discipline":"Building",
+                          "title":"Central Plaza",
+                          "access":"Limited"
+                     },
+                     "geometry":{
+                          "type":"Point",
+                          "coordinates":[114.173524, 22.280019]
+                     }
+                },
+                
+                {
+                      "type":"Feature",
+                      "properties":{
+                           "location":"Hong Kong Trail",
+                           "latitude":"22.257808",
+                           "description":"The Hong Kong Trail, opened in 1985, is a long-distance footpath from Victoria Peak to Big Wave Bay on Hong Kong Island. It is a 50-kilometre walking route which passes through the five country parks on Hong Kong island. The trail is extremely popular with local residents for its unique combination of well-marked paths through verdant woods that offer relief from the sun on sunny days, and featuring numerous streams and waterfalls. The trail offers a wide variety of terrain -- it can be steep at some parts, flat at others, with both gradual ascents and descents. The trail takes a very indirect route; termination points Victoria Peak and Big Wave Bay are less than 11km apart. Because the trail is composed of eight sections, much shorter runs or hikes are possible. The popular running path on Bowen Road connects to both Sections 3 and 4 via the steep ascent up the Wan Chai Gap Trail. The best detailed guidebook, which breaks down each of the eight sections with detailed notes, maps and photos, is The Serious Hikers Guide to Hong Kong.",
+                           "thumb":null,
+                           "longitude":"114.198173",
+                           "imagefile":"http://....JPG",
+                           "discipline":"Hiking Trail",
+                           "title":"Hong Kong Trail",
+                           "access":"Limited"
+                      },
+                      "geometry":{
+                           "type":"Point",
+                           "coordinates":[114.198173, 22.257808]
+                      }
+                 },
+
+
+
+                 {
+                      "type":"Feature",
+                      "properties":{
+                           "location":"Hong Kong Maritime Museum",
+                           "latitude":"22.286565",
+                           "description":"Hong Kong Maritime Museum is a non-profit educational institution funded by the international shipping community and the government in Hong Kong. It is located at Central Pier 8, Hong Kong. The museum was reopened to the public in February 2013. The museum focuses on the development of boats, ships, maritime exploration and trade, and naval warfare. While concentrating on the South China coast and its adjacent seas, it also covers global trends and provides an account of Hong Kong's maritime growth. The museum includes semi-permanent and special exhibitions, interactive displays, educational events, a cafÈ, and a museum shop.",
+                           "thumb":null,
+                           "longitude":"114.161959",
+                           "imagefile":"http://....JPG",
+                           "discipline":"Museum",
+                           "title":"Hong Kong Maritime Museum",
+                           "access":"Limited"
+                      },
+                      "geometry":{
+                           "type":"Point",
+                           "coordinates":[114.161959, 22.286565]
+                      }
+                 },
+
+
+
+                 {
+                      "type":"Feature",
+                      "properties":{
+                           "location":"Blue House",
+                           "latitude":"22.273906",
+                           "description":"Blue House refers to a 4-storey balcony-type tenement block located at 72-74A Stone Nullah Lane, Wan Chai, Hong Kong. It is named after the blue colour painted on its external walls. It is one of the few remaining examples of tong lau of the balcony type in Hong Kong and is listed as Grade I historic building.",
+                           "thumb":null,
+                           "longitude":"114.173904",
+                           "imagefile":"http://....JPG",
+                           "discipline":"Museum",
+                           "title":"Blue House",
+                           "access":"Limited"
+                      },
+                      "geometry":{
+                           "type":"Point",
+                           "coordinates":[114.173904, 22.273906]
+                      }
+                 },
+
+
+
+
+        
+        
+    ]
+}
+
+
